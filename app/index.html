@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GTA VI &mdash; Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <h1>GTA VI <span class="sub">Trophy Guide &amp; Tracker</span></h1>
+  <div id="progress" class="progress">0 of 55 earned</div>
+</header>
+
+<nav class="filters">
+  <button class="chip" data-kind="all">All</button>
+  <button class="chip" data-kind="story">Story</button>
+  <button class="chip" data-kind="missable">Missable</button>
+  <button class="chip" data-kind="collectibles">Collectibles</button>
+  <button class="chip" data-kind="activities">Activities</button>
+  <button class="chip" data-kind="online">Online</button>
+  <label class="spoiler-label">
+    <input type="checkbox" id="spoiler" role="switch">
+    <span>Spoiler mode: hide story-trophy names &amp; descriptions until earned</span>
+  </label>
+  <div class="file-controls">
+    <button id="btn-export">Export progress</button>
+    <input id="inp-import" type="file" accept="application/json" hidden>
+    <button id="btn-import">Import progress</button>
+  </div>
+</nav>
+
+<main>
+  <section id="checklist">
+    <h2 id="section-label">Checklist <span id="count-badge"></span></h2>
+    <div id="trophy-grid" class="grid"></div>
+    <p id="empty-note" class="note hidden">No trophies match the current filter.</p>
+  </section>
+
+  <section id="roadmap">
+    <h2>Roadmap to Platinum</h2>
+    <p class="roadmap-intro">Suggested order to earn the trophies, built from the official descriptions. Story chapters and missions come first, then activities and collectibles, then the missable story moments, 100% completion, and finally the platinum.</p>
+    <div id="roadmap-phases" class="roadmap"></div>
+  </section>
+
+  <section id="detail"></section>
+</main>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

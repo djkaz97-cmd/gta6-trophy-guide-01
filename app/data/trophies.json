@@ -1,0 +1,1052 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "trophies": [
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Prologue",
+      "phase": "Prologue",
+      "order": 1,
+      "guide": "Play through the opening mission, Gone Fishing. It is the very first mission of the game, so it cannot be missed as long as you start the story.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 1",
+      "phase": "Chapters 1-4",
+      "order": 2,
+      "guide": "Finish Chapter 1 of the main story. Story chapters unlock in sequence and cannot be missed if you keep playing the campaign.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 2",
+      "phase": "Chapters 1-4",
+      "order": 3,
+      "guide": "Finish Chapter 2 of the main story. It unlocks after Chapter 1 and cannot be missed as you progress through the campaign.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 3",
+      "phase": "Chapters 1-4",
+      "order": 4,
+      "guide": "Finish Chapter 3 of the main story. It unlocks after Chapter 2 and cannot be missed as you progress through the campaign.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 4",
+      "phase": "Chapters 1-4",
+      "order": 5,
+      "guide": "Finish Chapter 4 of the main story. It unlocks after Chapter 3 and cannot be missed as you progress through the campaign.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 2",
+      "phase": "Story missions",
+      "order": 6,
+      "guide": "Complete the mission Breakfast Run. It is part of the main story sequence and cannot be missed if you keep advancing the campaign.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 3",
+      "phase": "Story missions",
+      "order": 7,
+      "guide": "Complete the heist mission The Cartel Heist. A main-story mission, so it cannot be missed as you progress through the campaign.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 4",
+      "phase": "Story missions",
+      "order": 8,
+      "guide": "Complete the mission Child's Play. Part of the main story sequence and cannot be missed as you progress.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 3",
+      "phase": "Story missions",
+      "order": 9,
+      "guide": "Complete the mission Headliners. A main-story mission that unlocks as you advance the campaign and cannot be missed.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 4",
+      "phase": "Story missions",
+      "order": 10,
+      "guide": "Complete the mission VCIA Takedown. Part of the main story sequence and cannot be missed as you progress.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 4",
+      "phase": "Story missions",
+      "order": 11,
+      "guide": "Complete the mission Operation Savage Glory. A main-story mission that unlocks as you advance the campaign and cannot be missed.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "kind": "missable",
+      "missable": true,
+      "chapter": "Chapter 4",
+      "phase": "Story side",
+      "order": 12,
+      "guide": "Leave VCIA in an unscheduled way. This is only possible during the VCIA story window, so it is missable: do it while the VCIA mission is active rather than assuming you can come back later.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Chapter 4",
+      "phase": "Story side",
+      "order": 13,
+      "guide": "Deal with Rhino tanks. Find and handle the Rhino tanks the game puts in your path during the story. Not missable if you complete the missions that feature them.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 14,
+      "guide": "Get a 4-star wanted level with your partner, then lose it together and escape the heat. Drive around to shake the stars while your partner rides with you. Not missable as long as you raise and lose a 4-star wanted level in co-op play.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 15,
+      "guide": "Rob three shops in a row with your partner while keeping your wanted level active the whole time. Knock over one shop, then another, then another without letting the heat cool off. Not missable if you do it in one spree.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 16,
+      "guide": "Rob a jewelry store without being seen. Sneak in, take the loot, and leave with no detection. Not missable as long as you pull off a clean jewelry-store robbery.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "kind": "story",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 17,
+      "guide": "Rob five bank vaults and escape each one. Hit bank vaults and get out cleanly five times; they stack across the playthrough. Not missable if you rob five vaults.",
+      "count": 5,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 18,
+      "guide": "Rob an armored truck and escape. Stop the truck, take the cargo, and get away. Not missable as long as you rob one armored truck.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 19,
+      "guide": "Rob one illegal operation of each of the 9 gangs. Find a gang illegal operation for every gang and rob it. Nine operations total, not missable if you hit one per gang.",
+      "count": 9,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Finale",
+      "phase": "Finale",
+      "order": 20,
+      "guide": "Play through to the end of the main story and complete the final mission. This gold marks the end of the campaign. Save it for after you have cleared the missables that only appear during the story.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 20,
+      "guide": "Smash your way out of a vehicle showroom in classic style. Drive a car straight through the showroom and escape. Not missable if you pull off the showroom breakout.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Stranger strands",
+      "phase": "Strangers",
+      "order": 21,
+      "guide": "Complete eight stranger mission strands across Leonida. Each strand is a short side-mission line given by a stranger. Track your progress in the guide and finish all eight; this is the silver that ties them together. Not missable if you complete every strand.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Stranger strand",
+      "phase": "Strangers",
+      "order": 22,
+      "guide": "Finish Andy's stranger-mission strand by completing his final mission. Stranger strands unlock as you explore Leonida and can be done alongside the story. Not missable if you complete all eight strands.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Stranger strand",
+      "phase": "Strangers",
+      "order": 23,
+      "guide": "Finish Kenton's final stranger mission. Complete his strand to earn it. Not missable if you work through the stranger strands.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Stranger strand",
+      "phase": "Strangers",
+      "order": 24,
+      "guide": "Finish Billy's final stranger mission. Work through Billy's strand to reach his last mission. Not missable if you complete all eight strands.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Stranger strand",
+      "phase": "Strangers",
+      "order": 25,
+      "guide": "Finish Randy's final mission. Complete his stranger strand to reach this last mission. Not missable if you complete all eight strands.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "Stranger strand",
+      "phase": "Strangers",
+      "order": 26,
+      "guide": "Finish Tyrone's final mission. Complete his stranger strand to reach this last mission. Not missable if you complete all eight strands.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 29,
+      "guide": "Complete 50 challenges. Challenges are the short objectives the game sets across activities; finish fifty of them. They accumulate through normal play, so this is not missable if you engage with activities.",
+      "count": 50,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 30,
+      "guide": "Meditate at all 18 meditation spots across Leonida. Find each spot on the map, sit, and meditate. They are marked locations you can visit in free roam, so none are missable if you explore.",
+      "count": 18,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 31,
+      "guide": "Hunt the unique animal Bret asks for. Track it down and take it. A single activity, not missable once you know where Bret's hunt is.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 32,
+      "guide": "Use WAiNK It at 100 locations. WAiNK It wherever you go and watch the counter climb; reaching 100 locations earns the silver. Not missable if you keep using it while doing other activities.",
+      "count": 100,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 33,
+      "guide": "Win 20 distinct races across Leonida. Enter races and finish first in twenty different ones. They stack across the playthrough, so this comes naturally while you chase other activities. Not missable.",
+      "count": 20,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 34,
+      "guide": "Play each of the activity types at least once: races, drone races, shooting-range challenges, fishing, bowling, arcade games, meditation spots and more. One round of each is enough. Not missable.",
+      "count": 9,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 35,
+      "guide": "Pull off 250 stunts with vehicles: jumps, drifts and near-misses counted by the game. They add up across the whole playthrough, so chase this in free roam once you have a fast car. Not missable.",
+      "count": 250,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 36,
+      "guide": "Get a gold medal on every Shooting Range challenge (42 of them). Go back to each range and post the top score; this is skill-based and cannot be missed if you complete them all.",
+      "count": 42,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 37,
+      "guide": "Win a Top Fun drone race at all 14 locations across Leonida. Find each drone-race start, place first, and move to the next. Not missable.",
+      "count": 14,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 38,
+      "guide": "Beat Cal in a fishing challenge. Find Cal's fishing challenge, land the better catch, and win. Not missable.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 39,
+      "guide": "Finish one arcade game from start to finish. Play any cabinet in an arcade and complete a full game. Not missable.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 40,
+      "guide": "Down five enemies in one Combat Focus activation. Enter Combat Focus in a firefight and take down five foes before it ends. A combat skill trophy; not missable if you use Combat Focus in a busy fight.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Let's Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 41,
+      "guide": "Play bowling at the Kolt & Associates bowling alley. A single game of bowling is enough. Not missable.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 42,
+      "guide": "Knock someone down with a melee drive-by. Swing a melee weapon from a moving vehicle to hit a person. A combat trick; not missable if you attempt it in open combat.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "kind": "story",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 43,
+      "guide": "Witness something strange. Leonida has odd sights; keep your eyes open for an unexplained event and see it through. Not missable if you investigate the strange occurrences.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 43,
+      "guide": "Register 10 vehicles in the Scooter Bros app. Use the app to register ten different vehicles. Not missable if you register ten.",
+      "count": 10,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Collectibles",
+      "order": 44,
+      "guide": "Discover 100 different vehicles across Leonida. Get into or encounter cars, bikes, boats and helicopters until the counter reaches 100. Free-roam exploration makes this unavoidable over a full playthrough.",
+      "count": 100,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Collectibles",
+      "order": 45,
+      "guide": "Explore all 52 areas of Leonida. Travel to every named region on the map until exploration reaches 100%. Not missable if you visit every area.",
+      "count": 52,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 45,
+      "guide": "Spend $100,000 in shops. Buy clothes, weapons and other items until your total spending hits $100,000. It stacks across shops, so regular shopping earns it. Not missable.",
+      "count": 100000,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "kind": "activities",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Activities",
+      "order": 46,
+      "guide": "Launder $250,000 of marked bills through your contacts. Run marked bills to your contacts until the laundered total reaches $250,000. Not missable if you launder enough over the playthrough.",
+      "count": 250000,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "kind": "collectibles",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Collectibles",
+      "order": 47,
+      "guide": "Complete three collectible card sets. Find cards across Leonida and finish any three sets. Collect as you explore; three completed sets earns the silver.",
+      "count": 3,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "kind": "collectibles",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Collectibles",
+      "order": 48,
+      "guide": "Buy all 8 garage properties. Purchase every garage property available in Leonida to store more vehicles. Eight to buy, not missable if you purchase them all.",
+      "count": 8,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning...",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "kind": "missable",
+      "missable": true,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 49,
+      "guide": "Have a cocktail with a view on Ocean Beach. This is a specific moment at a specific place, so it is easy to miss: stop at Ocean Beach and enjoy the cocktail while you still can.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "kind": "missable",
+      "missable": true,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 50,
+      "guide": "Share a partnership moment with mass appeal. This is a specific story moment with your partner, so it is missable if you pass it by; make sure you take it when it comes.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "kind": "missable",
+      "missable": true,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 51,
+      "guide": "Make choices across the game; PSN tracks a count up to 500. Some choice moments come only once, so this can be missed if you never make the choices it counts. Keep making decisions through the story.",
+      "count": 500,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "kind": "missable",
+      "missable": true,
+      "chapter": "—",
+      "phase": "Story side",
+      "order": 52,
+      "guide": "Succeed on a second try. This is a one-shot moment: if you fail the first time, make sure you succeed on the second attempt. It can be missed if you do not retry or if you succeed the first time without the second-try trigger.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "kind": "collectibles",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Endgame",
+      "order": 54,
+      "guide": "Reach 100% completion: story, collectibles, activities and everything the completion tracker counts. This is the long road, so leave it for last after the other trophies have fallen. It cannot be missed because it only requires finishing everything else.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "kind": "story",
+      "missable": false,
+      "chapter": "—",
+      "phase": "Platinum",
+      "order": 55,
+      "guide": "The platinum trophy. Earn every one of the other 54 trophies in this guide. Because it requires the full list, any missable trophy you skipped must be earned first, so keep the missables flagged in the tracker as you play. No separate task of its own beyond completing the set.",
+      "count": null,
+      "sources": [
+        {
+          "name": "PlayStation - official Grand Theft Auto VI trophy list (PS5)",
+          "url": null
+        }
+      ]
+    }
+  ]
+}
